@@ -16,7 +16,7 @@ Hell-o, world!
   <img align="center" alt="Hellen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hellen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hellen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://imgur.com/u3RputE"><img src="https://i.imgur.com/u3RputE.gif" title="source: imgur.com" /></a>
+  <img align="right" a href="https://imgur.com/u3RputE"><img src="https://i.imgur.com/u3RputE.gif" title="source: imgur.com" /></a>
 </div>
 
 ##
