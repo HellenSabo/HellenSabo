@@ -15,13 +15,11 @@ Hell-o, world!
   <img align="center" alt="Hellen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hellen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hellen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/857393891173859349/857393891173859352/1027387255712657469">
+  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="blob:https://hellensabo.imgur.com/0161b7fe-3bd8-4116-8ddc-4ad478b9611c">
 </div>
 
 ##
  <a href = "mailto:hellensabo92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hellen-sabo-7535bb215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ##
-https://cdn.discordapp.com/attachments/857393891173859352/1027387255377121370/picasion.com_7d1d7eb5ab798d589ca9132d075e1b7f.gif
-  ##
-![snake gif](https://github.com/HellenSabo/HellenSabo/blob/output/github-contribution-grid-snake.svg)
+ 
+  ![snake gif](https://github.com/HellenSabo/HellenSabo/blob/output/github-contribution-grid-snake.svg)
