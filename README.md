@@ -17,7 +17,7 @@ Hell-o, world!
   <img align="center" alt="Hellen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hellen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="right" alt="Hellen-Gif" height="20" width="30"
-      src= "https://i.imgur.com/u3RputE.gifv"
+      src= "[Imgur](https://i.imgur.com/u3RputE.gifv)"
 </div>
 
 ##
