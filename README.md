@@ -1,7 +1,8 @@
 
 Hell-o, world!
 
-- 🎨 I’m currently learning Frontend contents;
+- 🎨 I’m currently learning Front-end contents;
+- 💻 Looking for a tech job;
 - 👩🏽‍🦱 Pronouns: She/Her;
 - 📖 Fun fact: I'm a native Portuguese teacher and an author.
 
