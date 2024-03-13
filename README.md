@@ -1,8 +1,8 @@
 
 Hell-o, world!
 
-- 🎨 I’m currently learning Front-end contents;
-- 💻 Looking for a tech job;
+- 💻 I’m currently learning tech contents;
+- 🧮 Teacher assistent in a tech school, or, "the computer girl";
 - 👩🏽‍🦱 Pronouns: She/Her;
 - 📖 Fun fact: I'm a native Portuguese teacher and an author.
 
